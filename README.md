@@ -7,9 +7,9 @@
 
 <h2> About Me </h2>
 - 🌱 I am currently learning front-end development tools.
-- <br>
+<br>
 - 😄 she/her
-- <br>
+<br>
 - 😝 Fun fact : I love to write blogs but I never publish them.
 
 <h3 align="left">Connect with me:</h3>
