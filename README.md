@@ -1,14 +1,22 @@
-<h3 align="center">A CSE undergrad from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheisaman&label=Profile%20views&color=0e75b6&style=flat" alt="sheisaman" /> </p>
+<h1>Hie there!👋🏻</h1>
 
-- ⚡ Fun fact **I love to write blogs but I never publish them.**
+<img src="https://i.pinimg.com/originals/45/b3/8b/45b38bd4f516def60b6d490662fd022f.jpg">
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheisaman&label=Profile%20views&color=0e75b6&style=flat" alt="sheisaman" /> </p> -->
+
+<h2> About Me </h2>
+- 🌱 I am currently learning front-end development tools.
+- <br>
+- 😄 she/her
+- <br>
+- 😝 Fun fact : I love to write blogs but I never publish them.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heartonsleeve02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heartonsleeve02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman arora" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aman_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_arora" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/aman_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_arora" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
