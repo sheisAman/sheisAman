@@ -1,7 +1,7 @@
 
 <h1>Hie there!👋🏻</h1>
 
-<img src="https://i.pinimg.com/originals/45/b3/8b/45b38bd4f516def60b6d490662fd022f.jpg">
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheisaman&label=Profile%20views&color=0e75b6&style=flat" alt="sheisaman" /> </p> -->
 
