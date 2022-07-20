@@ -2,11 +2,11 @@
 <h1>Hie there!👋🏻</h1>
 
 
-
+I am Aman Arora, 3rd year junior at TIET, Patiala.
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheisaman&label=Profile%20views&color=0e75b6&style=flat" alt="sheisaman" /> </p> -->
 
 <h2> About Me </h2>
-I am Aman Arora, 3rd year junior at TIET, Patiala.
+
 - 🌱 I am currently learning front-end development tools.
 <br>
 - 😄 she/her
